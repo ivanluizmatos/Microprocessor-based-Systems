@@ -34,7 +34,6 @@ Nous allons développer sur des cartes STM32 IoT Node.
     - Configuration
     - Envoi et réception
     - Tests
-    - Avant de continuer
 7. Afficheur à LED
     - Fonctionnement de la matrice
     - Contrôleur de LED
